@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/originals/e3/3f/73/e33f73649ed174c931c16ddac9c501f8.gif](https://th.bing.com/th/id/R.94b21a17d8a954aee4e7228457d52729?rik=ghun8M%2bzJdJjzQ&pid=ImgRaw&r=0))](https://rishavchanda.io)
+[![MasterHead]([https://th.bing.com/th/id/R.94b21a17d8a954aee4e7228457d52729?rik=ghun8M%2bzJdJjzQ&pid=ImgRaw&r=0](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tin</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Panda" width="200" src="https://i.pinimg.com/originals/e3/3f/73/e33f73649ed174c931c16ddac9c501f8.gif">
