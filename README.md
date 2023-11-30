@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tin</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Panda" width="400" src="https://i.pinimg.com/originals/e3/3f/73/e33f73649ed174c931c16ddac9c501f8.gif">
+<img align="right" alt="Panda" width="300" src="https://i.pinimg.com/originals/e3/3f/73/e33f73649ed174c931c16ddac9c501f8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinspaghetticode&label=Profile%20views&color=0e75b6&style=flat" alt="tinspaghetticode" /> </p>
 
